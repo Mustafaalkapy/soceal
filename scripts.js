@@ -1,11 +1,11 @@
 // إعداد Firebase
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
+    apiKey: 1:612535081980:android:899f231d67fce6d2ba3079o",
     authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
+    projectId: "cubesok-2770c-default-rtdb.firebaseio.com",
+    storageBucket: "cubesok-2770c.appspot.com",
     messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    appId: "AIzaSyCwEm--ajwW9sZSXCJZ0bMLzDPOjaGjNgM"
 };
 
 // Initialize Firebase
